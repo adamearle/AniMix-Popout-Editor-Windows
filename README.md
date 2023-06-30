@@ -1,4 +1,4 @@
-# Animix Area Type Popout Windows
+# AniMix Area Type Popout Windows
 The addon is about users having more options for how they want to work with Blender ui
 
 ***
