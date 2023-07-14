@@ -1,5 +1,5 @@
-# AniMix Popout Area Windows
-The addon is about users having more options for how they want to work with Blender ui
+# AniMix Popout Editor Windows
+The addon is about users having more options for how they want to work with Blenders ui
 
 ***
 ### AniMix Hybrid Animation Addon. 
