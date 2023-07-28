@@ -8,6 +8,34 @@ bl_info = {
     "category": "UI",
 }
 
+
+'''
+########################################
+#### WHATS DOES THE ADDONS CODE DO. #### 
+########################################
+
+- Add buttons in the main Windows topbar for every editor and their related modules 
+- Forces a reload of the buttons.
+- Popouts windows from the last active window for the styling of the windows.
+- Window can be popped out in
+     - Default
+     - Toggle local view
+     - Toggle maximum area (not working).
+
+
+- JSON files are used for storing properties to (Not Working) 
+    - Remembers window size and position.
+    - Saves what buttons are turned on for all session states
+
+- New add-ons that create new editors need to be added manually to "Addon_Buttons_List".
+- Adds modules of the editors to the "Edit type menu" list. Not Added
+
+- Drag and drop area types into modules Not Added
+
+'''
+
+
+
 # Import required libraries
 import bpy
 import os
