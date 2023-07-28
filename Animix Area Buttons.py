@@ -11,7 +11,7 @@ bl_info = {
 
 '''
 ########################################
-#### WHATS DOES THE ADDONS CODE DO. #### 
+#### WHATS THE ADDONS CODE DOES #### 
 ########################################
 
 - Add buttons in the main Windows topbar for every editor and their related modules 
